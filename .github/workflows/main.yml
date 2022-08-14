@@ -32,7 +32,7 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          repository-name: myoursh/MYours-Knowledge-Garden-
+          repository-name: myoursh/MYours-Knowledge-Garden-Publish
           branch: master # The branch the action should deploy to.
           folder: www # The folder the action should deploy.
           clean: true
