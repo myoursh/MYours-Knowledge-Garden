@@ -2,5 +2,5 @@ public:: true
 经过一番折腾，距离我的基于 Logseq 的网页发布前所未有的近，在此总结一下遇到的问题：
 
 - 已解决的：
-- -
+- - action 中 deploy 时问题：本质上是 deploy 问题，secret。
 -
