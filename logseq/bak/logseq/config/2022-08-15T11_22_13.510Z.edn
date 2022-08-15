@@ -177,7 +177,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["编程入门-学习群-简介" "W1-环境部署" "W2-Python基本语法" "git的3个重要的全局配置" "Vercel常用命令" "V2Ray" "学习目标" "书单" "Git" "Logseq"]
+ :favorites ["MYoursGarden-Homepage"]
  :journal/page-title-format "yyyy-MM-dd"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
