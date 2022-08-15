@@ -7,4 +7,4 @@
 -
 - [[AboutMe]]
 - [[Guide]]
--
+- [[logseq 发布注意事项]]
