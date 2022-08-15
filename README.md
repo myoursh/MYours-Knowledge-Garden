@@ -6,3 +6,5 @@
 ---
 
 此仓库存放基于 Logseq 的发布页 myoursh.vercel.app 的源码。
+-
+- This is a test for git
