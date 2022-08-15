@@ -1,6 +1,6 @@
 - # My & Yours Digital Garden
 - > Welcome to this digital garden !
-- 欢迎来到这个
+- 欢迎来到这个建筑在互联网上，由
 -
 -
 -
