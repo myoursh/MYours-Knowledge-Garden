@@ -31,7 +31,7 @@
  ;; You may find a list of awesome logseq themes here:
  ;; https://github.com/logseq/awesome-logseq#css-themes
  ;; Example:
- ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"
+ :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css');"
 
  ;; When :all-pages-public? true, export repo would export all pages within that repo.
  ;; Regardless of whether you've set any page to public or not.
@@ -52,7 +52,7 @@
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
- :default-home {:page "MYoursGarden-Homepage" :sidebar ["contents"]}
+ :default-home {:page "MYoursGarden" :sidebar ["contents"]}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
