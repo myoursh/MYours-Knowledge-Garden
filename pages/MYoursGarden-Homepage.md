@@ -1,3 +1,3 @@
 - # My & Yours Digital Garden
-- > Welcome to this degital garden !
+- > Welcome to this digital garden !
 -
