@@ -8,7 +8,22 @@
 	container.appendChild(element);
 </script>
 <!-- 评论系统 -->
-<script src="https://giscus.app/client.js" ... async></script>
+<!--根据giscus官方文档 https://giscus.app/zh-CN 的配置-->
+<script src="https://giscus.app/client.js"
+        data-repo="myoursh/MYours-Knowledge-Garden-Publish"
+        data-repo-id="R_kgDOH0YbjQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOH0Ybjc4CQ2ig"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
 <!-- SPA 评论系统刷新问题 -->
 <script>
     history.pushState = (f => function pushState() {
@@ -70,22 +85,6 @@
             console.debug("try switch giscus theme:", giscusTheme);
         }
     });
-</script>
-<!--根据giscus官方文档 https://giscus.app/zh-CN 的配置-->
-<script src="https://giscus.app/client.js"
-        data-repo="myoursh/MYours-Knowledge-Garden-Publish"
-        data-repo-id="R_kgDOH0YbjQ"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOH0Ybjc4CQ2ig"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
 </script>
 <!--引入访客地球-->
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5kewznr0roi&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
