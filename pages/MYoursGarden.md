@@ -1,5 +1,3 @@
-public:: true
-
 - #  🌷 My & Yours Digital Garden
 - >  🍀 Welcome to this digital garden !
 - 欢迎来到这个建筑在互联网上，由 一 张张 [[页面]] 浇灌而成，属于我，也属于你的「数字花园」。
