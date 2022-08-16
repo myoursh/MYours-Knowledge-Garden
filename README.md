@@ -2,5 +2,5 @@
   
   [我的，也是你的数字花园。](https://myoursh.vercel.app/)
   
-  
-  此仓库存放基于 Logseq 的发布页 myoursh.vercel.app 的源码。
+  此仓库存放基于 [Logseq](logseq.com) 的发布页 myoursh.vercel.app 的源码。
+- 仓库地址：
