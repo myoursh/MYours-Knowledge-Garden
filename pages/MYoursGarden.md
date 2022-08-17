@@ -1,6 +1,8 @@
 - #  🌷 Welcome
-- >  🍀 Welcome to My & Yours Digital Garden !
+-
 - 欢迎来到这个建筑在互联网上，由 一 张张 [[页面]] 浇灌而成，属于我，也属于你的「数字花园」。
+-
+- >  🍀 Welcome to My & Yours Digital Garden !
 - ## intro
 - 请允许我讲讲这个花园的由来吧。也许听我讲完，你会觉得「数字花园」不只是个噱头。
 -
