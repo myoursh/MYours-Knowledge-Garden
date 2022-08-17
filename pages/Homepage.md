@@ -1,4 +1,4 @@
-- # 🏡 This is a blog with a garden
+- # 🏡Blog with garden
 -
 -
 -
