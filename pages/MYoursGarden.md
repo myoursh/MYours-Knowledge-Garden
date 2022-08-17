@@ -1,7 +1,7 @@
 - >  🍀 Welcome to My & Yours Digital Garden 🌷
 -
 - 欢迎来到这个建筑在互联网上，由 一 张张 [[页面]] 浇灌而成，属于我，也属于你的「数字花园」。
-## Yours
+- ## YoursGarden
 - > 如何探索「数字花园」？
 - 基于 [[logseq]] 的「花园」和 [[hexo]] 、Hugo等静态博客不一样的地方：
 -
