@@ -4,15 +4,9 @@
  {:block/name "2022-08-18",
   :block/created-at 1660788652994,
   :block/updated-at 1660788652994}
- {:block/name "264c9b",
-  :block/created-at 1660790483308,
-  :block/updated-at 1660790483308}
  {:block/name "a",
   :block/created-at 1660467927252,
   :block/updated-at 1660467927252}
- {:block/name "aboutme",
-  :block/created-at 1660551210545,
-  :block/updated-at 1660551275659}
  {:block/name "b",
   :block/created-at 1660467927252,
   :block/updated-at 1660467927252}
@@ -30,7 +24,7 @@
   :block/updated-at 1660562563303}
  {:block/name "contents",
   :block/created-at 1660556235583,
-  :block/updated-at 1660748616414}
+  :block/updated-at 1660794498820}
  {:block/name "doing",
   :block/created-at 1660467927252,
   :block/updated-at 1660467927252}
