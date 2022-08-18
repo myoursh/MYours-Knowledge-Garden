@@ -6,11 +6,11 @@
 - [[README]]
 - ## As a garden
   background-color:: #49767b
-- Here are some features as a garden
+- Here are some features as a garden 🏡
 - 「数字花园」是基于[[双链]]的，强烈建议在 PC 端获得如下体验：
 	- 🖱️鼠标悬浮在[[页面]]上方，在不打开新页面的情况下访问别的页面。
 	- 🎞️点击右上角 `···`，点击 `presentation`，即可在右侧边栏打开该页面的幻灯片样式。
-		- 💡打开幻灯片后，按下 `f` 可以进入全屏模式。
+	- 💡打开幻灯片后，按下 `f` 可以进入全屏模式。
 	- 打开左侧栏图谱 → `Graph View`，直观查看页面间链接。
 - > 如果希望更深度的了解「数字花园」的探索方式，请点击🌷 [[MYoursGarden]]
 - ## As a Blog
