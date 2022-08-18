@@ -2,8 +2,7 @@
 -
 - 你好，我是「myoursh」，欢迎访问我的个人主页。
 - 这是一个非常规的，用于发布长文与灵感的「博客」与「数字花园」。
--
-- 可以随时点击 🏠 返回本页
+- 你可以随时点击 🏠 返回本页，住院
 -
 - ## As a garden
   background-color:: #49767b
@@ -27,4 +26,3 @@
 	-
 	- 收录生活中自然流淌的诗意。
 - <iframe src="https://httishere.gitee.io/notion/new/today-shici.html?mode=w" width="20"height="800"></iframe>
--
