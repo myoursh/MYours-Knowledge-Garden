@@ -2,6 +2,9 @@
 	- config.edn
 - 主题修改
 	- custom.css
+- git
+	- hookes
+		- post-commit
 - 主库动作 action
 	- 每次 commit 时都会自动运行该脚本
 	- CI 就是该脚本名（存疑，还没很懂）
@@ -10,4 +13,5 @@
 	- 详见 config.edn ，搜索 css
 - 自动发布流程：
 	- 源代码库→发布库→ Vercel 拉取发布库的 main 分支并部署
+-
 -
