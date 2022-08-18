@@ -18,7 +18,7 @@
 - This website also provides category like most of blogs  📑
 - 本发布页提供博客中常见的「分类」
 	- 点击左侧 ⭐`favourite`下方对应的页面，访问该页面分类下内容
-	- 点击 右侧边栏 `Contents`，该页面是我摘选出来的精华文章和分类
+	- 点击 右侧边栏 `Contents`，该页面统计一些摘选出来的文章和分类
 - ## 准备浇灌的领域 💦
   background-color:: #264c9b
 - ## [[数据结构]]
