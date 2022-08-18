@@ -1,3 +1,5 @@
+- 教程详见 https://imap.vercel.app/#/page/logseq%E9%83%A8%E7%BD%B2%E7%BD%91%E9%A1%B5
+- 以下为
 - 配置文件
 	- config.edn
 - 主题修改
