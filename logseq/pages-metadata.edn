@@ -37,6 +37,9 @@
  {:block/name "favorites",
   :block/created-at 1660467927252,
   :block/updated-at 1660467927252}
+ {:block/name "guide",
+  :block/created-at 1660789192943,
+  :block/updated-at 1660789192943}
  {:block/name "homepage",
   :block/created-at 1660722683442,
   :block/updated-at 1660788897834}
