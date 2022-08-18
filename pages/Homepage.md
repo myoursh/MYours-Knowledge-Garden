@@ -15,7 +15,7 @@
 - ## As a Blog
   background-color:: #787f97
 -
-- 本发布页提供简单的「目录」
+- 本发布页提供「分类」
 	- 点击左侧 ⭐`favourite`下方对应的页面，访问相应内容
 	- 点击 右侧边栏 `Contents`
 	-
