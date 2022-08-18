@@ -6,7 +6,8 @@
 	- 每次 commit 时都会自动运行该脚本
 	- CI 就是该脚本名（存疑，还没很懂）
 - 发布时 cdn 加速
--
+	- 文件网址位置：htps:/cdn.jsdelivr..net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
+	- 原理：https://blog.csdn.net/u011759205/article/details/104839628/
 - 自动发布流程：
 	- 源代码库→发布库→ Vercel 拉取发布库的 main 分支并部署
 -
