@@ -15,7 +15,7 @@
 - > 如果希望更深度的了解「数字花园」的探索方式，请点击🌷 [[MYoursGarden]]
 - ## As a Blog
   background-color:: #787f97
-- This website also provide gotagory
+- This website also provides category which most of blogs does.
 - 本发布页提供「分类」
 	- 点击左侧 ⭐`favourite`下方对应的页面，访问相应内容
 	- 点击 右侧边栏 `Contents`
