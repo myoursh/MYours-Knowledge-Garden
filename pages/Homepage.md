@@ -18,7 +18,7 @@
 - This website also provides category like most of blogs  📑
 - 本发布页提供「分类」
 	- 点击左侧 ⭐`favourite`下方对应的页面，访问相应内容
-	- 点击 右侧边栏 `Contents`
+	- 点击 右侧边栏 `Contents`，
 	-
 - ## 准备浇灌的领域 💦
   background-color:: #264c9b
