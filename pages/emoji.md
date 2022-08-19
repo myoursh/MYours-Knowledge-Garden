@@ -1,0 +1,2 @@
+- logseq 支持所有 emoji
+- 类似于 notion ，
