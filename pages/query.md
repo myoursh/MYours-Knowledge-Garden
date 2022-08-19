@@ -11,9 +11,9 @@
 	  query-table:: true
 	  query-sort-by:: block
 	  query-sort-desc:: true
-	- {{query (and (between -1d, 0d) [[页面]] [[标签]])}}
-	  query-table:: true
+	- {{query (and (between -1d,0d) [[页面]] [[标签]]}}
 	  query-sort-by:: block
+	  query-table:: true
 	  query-sort-desc:: true
 - 基础关键词
 - and
