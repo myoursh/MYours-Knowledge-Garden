@@ -11,6 +11,7 @@
 	  query-table:: true
 	  query-sort-by:: block
 	  query-sort-desc:: true
+	- {{query (and (between -1d,0d)[[research]][[idea]])})
 - 基础关键词
 - and
 - or
