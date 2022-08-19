@@ -5,7 +5,7 @@
 - # 基本结构
 - [Logseq 系列教程 | 1.2 Logseq 的库(graph)、页面(page)、块(block) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/370299376)
 - # 小技巧
-- 善用 [[emoji]]标记
+- 善用 [[emoji]]标记，提高可读性
 - # 高阶操作
 - logseq 起初是由[[qin]]用于个人使用的，此前名为 gitnote，可以看出来具有浓浓的程序员风格。因此在开发 logseq 时，采用了一些计算机领域的技巧。
 - [[query]] ]
