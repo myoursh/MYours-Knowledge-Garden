@@ -172,7 +172,7 @@
  :ref/default-open-blocks-level 4
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["MYoursGarden" "云雀叫了一整天"]
+ :favorites ["云雀叫了一整天"]
  :journal/page-title-format "yyyy-MM-dd"
  :graph/settings {:journal? false, :builtin-pages? true}
 
