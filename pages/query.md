@@ -1,2 +1,2 @@
-- {{video https://www.bilibili.com/video/av547918894}}
+- {{video [https://www.bilibili.com/video/av547918894](https://www.bilibili.com/video/BV1eq4y1N7Su?share_source=copy_web)}}
 -
