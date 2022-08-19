@@ -6,6 +6,6 @@
 - [Logseq 系列教程 | 1.2 Logseq 的库(graph)、页面(page)、块(block) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/370299376)
 -
 - # 高阶操作
--
+- logseq 起初是由
 - # [[logseq思想]]
 -
