@@ -5,12 +5,12 @@
 - ## 👋Yours Garden
 - > 建议的访问方式
 - #### 建议在==电脑端==访问，以获得以下特性
-  background-color:: #264c9b
+  background-color:: #49767b
 	- 点击左侧边栏 `Graph View`，可以访问全局图谱，并用鼠标点击进入图谱中结点对应的界面
 	- 鼠标悬停在有`[[]]`样式的文字上方，即可不用跳转访问相应[[页面]]/[[块]]
 	- 使用快捷键👉 ((62fc9346-41ff-466e-af23-97fdba08bb53))
 - #### 页面中所有元素都是基于「大纲」的
-  background-color:: #264c9b
+  background-color:: #49767b
   id:: 62fda20b-94db-4d65-b7fe-d1db5d6bb07e
 	- 页面中会有或大或小的圆点→ 🔘
 	- 有两种方式折叠以圆点为大纲的内容
@@ -18,7 +18,7 @@
 		- ⭐推荐：点击🔘下方竖线
 - > 如何探索「数字花园」？
 - #### 探索花园的几种方式
-  background-color:: #264c9b
+  background-color:: #49767b
 	- 🛤️随便逛逛-如何漫无目的的探索？
 	  collapsed:: true
 		- 🎆 导图
@@ -40,7 +40,7 @@
 			- 仅 PC：侧边栏 打开  `Graph view`  ，点击 Search，输入文字，即可检索出相应结点（每个结点对应一个 Page）
 			- 点击左侧栏  `All Pages`  ，搜索含相应关键词的 [[页面]]
 - #### 常用快捷键
-  background-color:: #264c9b
+  background-color:: #49767b
   id:: 62fc9346-41ff-466e-af23-97fdba08bb53
 	- 版式调整：
 		- `t`+`t`：亮色/暗色
@@ -49,7 +49,7 @@
 		- `Ctrl`+`K`：搜索
 		- `Shift`+`左键`：在侧边栏打开鼠标点击的内容（方便对比）
 - #### 感性认识
-  background-color:: #264c9b
+  background-color:: #49767b
 - 花园中，既有曲径通幽，也难免会有久未修葺，枯黄残败。
 	- 点开左侧边栏，打开 `Graph`，从 `图谱` 中也许你就能生动的看到这一点，常加灌溉的结点会更加 “枝繁叶茂” 。
 - ## 👨‍🔧My Garden
