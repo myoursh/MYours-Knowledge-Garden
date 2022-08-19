@@ -2,6 +2,6 @@
 - ```HTML
   <span><font color="red">红色</font></span>
   ```
-- 效果： <span><font color="red">红色，可也填 #色号</font></span>
+- 效果： <span><font color="red">红色，可也填颜色代码号（#开头）</font></span>
 -
 -
