@@ -60,6 +60,7 @@
 	- 思想：
 		- [[卡片盒笔记法]]
 		- [双向链接时代的快速无压记录](https://www.yuque.com/deerain/gannbs/ffqk2e)
+			- wei1
 	- [[logseq自动发布注意事项]]
 - ## 不同心境的阅读建议
 - 如果比较悠闲充分利用大纲👉 ((62fda20b-94db-4d65-b7fe-d1db5d6bb07e)) 和 [[双链]]
