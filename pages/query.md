@@ -1,5 +1,9 @@
 - {{video https://www.bilibili.com/video/av547918894/}}
 - 将自己设置的线索综合起来
+- 第一步，补充数据
+	-
 - 基础关键词
 - and
--
+- or
+- not
+- between
