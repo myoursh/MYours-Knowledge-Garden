@@ -49,7 +49,7 @@
 		- `Ctrl`+`K`：搜索
 		- `Shift`+`左键`：在侧边栏打开鼠标点击的内容（方便对比）
 		- `g`+`g`：图谱
-			- 🐛 bug：请忽略 id back
+			- 🐛 bug：请忽略 id background heading  结点
 - #### 感性认识
   background-color:: #49767b
 - 花园中，既有曲径通幽，也难免会有久未修葺，枯黄残败。
