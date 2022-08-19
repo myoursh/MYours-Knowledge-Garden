@@ -7,7 +7,8 @@
 	- ```query
 	  {{query (and [[页面]] [[标签]])}}
 	  ```
--
+	- {{query (and [[页面]] [[标签]])}}
+	  query-table:: false
 - 基础关键词
 - and
 - or
