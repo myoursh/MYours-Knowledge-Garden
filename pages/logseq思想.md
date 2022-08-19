@@ -1,2 +1,2 @@
 - # 页面 VS 标签
-- {{video https://www.zhihu.com/zvideo/1419338496082997248}}
+- [(99+ 封私信 / 81 条消息) Logseq 答疑（一）：页面 vs 标签 - 知乎 (zhihu.com)](https://www.zhihu.com/zvideo/1419338496082997248)
