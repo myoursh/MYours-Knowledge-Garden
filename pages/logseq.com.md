@@ -1,4 +1,5 @@
 - # 嵌入视频&配合飞书妙记
-- 嵌入视频:https://www.xiaohongshu.com/discovery/item/62c96f9900000000210351a7
-- 结合飞书妙记https://www.bilibili.com/video/BV1cS4y1z7XK?spm_id_from=333.337.search-card.all.click&vd_source=6b927c18188d6ef677a0d82692725653
+- [嵌入视频](https://www.xiaohongshu.com/discovery/item/62c96f9900000000210351a7)
+- 结合飞书妙记 {{video https://www.bilibili.com/video/BV1cS4y1z7XK?spm_id_from=333.337.search-card.all.click&vd_source=6b927c18188d6ef677a0d82692725653}}
+-
 -
