@@ -3,7 +3,7 @@
   :block/updated-at 1660925479908}
  {:block/name "2022-08-20",
   :block/created-at 1660924821654,
-  :block/updated-at 1660964700009}
+  :block/updated-at 1661003097337}
  {:block/name "62ff90e0-7d21-4498-9021-f58f820be120",
   :block/created-at 1660916479656,
   :block/updated-at 1660916479656}
@@ -136,9 +136,15 @@
  {:block/name "supermemo",
   :block/created-at 1660960772844,
   :block/updated-at 1660960772844}
+ {:block/name "supermemo/原则",
+  :block/created-at 1661003065694,
+  :block/updated-at 1661003065694}
  {:block/name "supermemo/插件",
   :block/created-at 1660961559605,
   :block/updated-at 1660961559605}
+ {:block/name "supermemo/样式",
+  :block/created-at 1661002483788,
+  :block/updated-at 1661002483788}
  {:block/name "toc",
   :block/created-at 1660966232046,
   :block/updated-at 1660966250177}
