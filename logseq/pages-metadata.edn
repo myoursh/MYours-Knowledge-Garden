@@ -70,6 +70,9 @@
  {:block/name "logseq 美化方法",
   :block/created-at 1660920456559,
   :block/updated-at 1660920730630}
+ {:block/name "logseq.com",
+  :block/created-at 1660925517813,
+  :block/updated-at 1660925517813}
  {:block/name "logseq思想",
   :block/created-at 1660911061070,
   :block/updated-at 1660911151412}
@@ -132,7 +135,7 @@
   :block/updated-at 1660746572931}
  {:block/name "外刊精读",
   :block/created-at 1660908544699,
-  :block/updated-at 1660923531394}
+  :block/updated-at 1660925770971}
  {:block/name "幻灯片",
   :block/created-at 1660820609250,
   :block/updated-at 1660897015798}
