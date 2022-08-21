@@ -52,7 +52,7 @@
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
- :default-home {:page "MYoursGarden" :sidebar "contents"}
+ :default-home {:page "Homepage" :sidebar "contents"}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -92,7 +92,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:editor/open-file-in-directory "meta+d meta+d", :go/journals "meta+g", :editor/open-file-in-default-app "meta+d meta+a"}
+ :shortcuts {:editor/open-file-in-default-app "meta+d meta+a", :editor/open-file-in-directory "meta+d meta+d", :go/journals "ctrl+g", :graph/re-index "ctrl+c ctrl+j"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
@@ -172,12 +172,12 @@
  :ref/default-open-blocks-level 4
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["MYoursGarden"]
+ :favorites ["myoursgarden" "外刊精读" "云雀叫了一整天"]
  :journal/page-title-format "yyyy-MM-dd"
- :graph/settings {:journal? false, :builtin-pages? false}
+ :graph/settings {:journal? false, :builtin-pages? true}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
- ;; :srs/learning-fraction 0.5
+ :srs/learning-fraction 1
 
  ;; the initial interval after the first successful review of a card (default 4)
  ;; :srs/initial-interval 4
