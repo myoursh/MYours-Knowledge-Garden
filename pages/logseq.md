@@ -12,4 +12,5 @@
 - # [[logseq思想]]
 -
 - # 推荐阅读
-	- 发布教程 & 添加相关的
+	- 发布教程 & 页面优化(比如加评论区): https://logseq.abosen.top/#/page/README
+	- 关于
