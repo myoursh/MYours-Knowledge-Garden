@@ -1,17 +1,24 @@
 - # 基本操作
-- ## 嵌入视频&配合飞书妙记
-- [嵌入视频](https://www.xiaohongshu.com/discovery/item/62c96f9900000000210351a7)
-- 结合飞书妙记 {{video https://www.bilibili.com/video/BV1cS4y1z7XK?spm_id_from=333.337.search-card.all.click&vd_source=6b927c18188d6ef677a0d82692725653}}
-- [[时间戳]]
+	- 嵌入视频&配合飞书妙记
+		- [嵌入视频](https://www.xiaohongshu.com/discovery/item/62c96f9900000000210351a7)
+		- 结合飞书妙记 {{video https://www.bilibili.com/video/BV1cS4y1z7XK?spm_id_from=333.337.search-card.all.click&vd_source=6b927c18188d6ef677a0d82692725653}}
+		- [[时间戳]]
 - # 基本结构
-- [Logseq 系列教程 | 1.2 Logseq 的库(graph)、页面(page)、块(block) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/370299376)
+	- [Logseq 系列教程 | 1.2 Logseq 的库(graph)、页面(page)、块(block) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/370299376)
 - # 小技巧
 - # 高阶操作
 	- logseq 起初是由[[qin]]用于个人使用的，此前名为 gitnote，可以看出来具有浓浓的程序员风格。因此在开发 logseq 时，采用了一些计算机领域的技巧。
-	- [[query]]
+		- [[query]]
 - # [[logseq思想]]
 -
 - # 推荐阅读
 	- 发布教程 & 页面优化(比如加评论区)  https://logseq.abosen.top/#/page/README
 	- CSS 修改,logseq 群主 https://wsin.vercel.app/#/page/%E9%98%85%E8%AF%BB%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97
 	- 网页部署 https://imap.vercel.app/#/page/logseq%E9%83%A8%E7%BD%B2%E7%BD%91%E9%A1%B5
+- # 🐛捉虫
+	- 世界上百分之九十的问题都可以靠重启解决。
+		- 注意==备份==！
+		- “重启”方法：
+			- setting-clear cache（在高级设置里）
+			- 页面的配置在 logseq/pages-metadata.edn 中。可以删除该页，再 re-index （重建索引）
+				- [Property names in graph](https://github.com/logseq/logseq/issues/6124)
