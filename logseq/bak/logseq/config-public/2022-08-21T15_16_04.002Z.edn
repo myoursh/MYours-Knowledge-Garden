@@ -1,6 +1,7 @@
 ;;该配置文件是发布时的配置文件
 {:meta/version 1
 
+ :property-pages/enabled? false
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
@@ -175,7 +176,7 @@
  :ref/linked-references-collapsed-threshold 50
  :favorites ["myoursgarden" "外刊精读" "云雀叫了一整天"]
  :journal/page-title-format "yyyy-MM-dd"
- :graph/settings {:journal? false, :builtin-pages? false}
+ :graph/settings {:journal? false, :builtin-pages? true}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  :srs/learning-fraction 1
