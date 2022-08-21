@@ -3,7 +3,7 @@
 - 你好，我是「myoursh」，欢迎访问我的个人主页。
 	- 这是一个非常规的，用于发布长文与灵感的「博客」与「数字花园」。
 	- 你可以随时点击 🏠 返回本页，祝愿探索愉快🏄
-- ⭐[[README]]
+- ⭐ on [[README]]
 - ## As a garden
   background-color:: #49767b
 - Here are some features as a garden 🏡
