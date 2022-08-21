@@ -12,5 +12,6 @@
 - # [[logseq思想]]
 -
 - # 推荐阅读
-	- 发布教程 & 页面优化(比如加评论区): https://logseq.abosen.top/#/page/README
-	- 关于
+	- 发布教程 & 页面优化(比如加评论区)  https://logseq.abosen.top/#/page/README
+	- CSS 修改,logseq 群主 https://wsin.vercel.app/#/page/%E9%98%85%E8%AF%BB%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97
+	-
