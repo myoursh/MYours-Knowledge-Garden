@@ -22,5 +22,5 @@
 	- 暴論： [[logseq/思想/标签与页面]]是一样的！
 - # 准备浇灌的领域 💦
 - ## [[Contents]]
-- > 生活，诗歌。
+- > 生活，诗歌。我的
 	- <iframe src="https://httishere.gitee.io/notion/new/today-shici.html?mode=w" width="20"height="800"></iframe>
