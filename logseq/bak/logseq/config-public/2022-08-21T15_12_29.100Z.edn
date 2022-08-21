@@ -1,4 +1,5 @@
 ;;该配置文件是发布时的配置文件
+ :property-pages/enabled? false
 {:meta/version 1
 
  ;; Currently, we support either "Markdown" or "Org".
@@ -103,7 +104,7 @@
  :ui/show-command-doc? true
 
  ;; Whether to show empty bullets for non-document mode (the default mode)
- :ui/show-empty-bullets? true
+ :ui/show-empty-bullets? false
 
  ;; The app will show those queries in today's journal page,
  ;; the "NOW" query asks the tasks which need to be finished "now",
@@ -170,7 +171,7 @@
  ;;
  ;; With the default value of level 2, `b` will be collapsed.
  ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
- :ref/default-open-blocks-level 4
+ :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
  :favorites ["myoursgarden" "外刊精读" "云雀叫了一整天"]
