@@ -1,4 +1,3 @@
-- {{video https://www.bilibili.com/video/av547918894/}}
 - 将自己设置的线索综合起来
 - 第一步，补充数据
 	- 引用 `[[页面]]`，打 #标签
@@ -11,12 +10,9 @@
 	  query-table:: true
 	  query-sort-by:: block
 	  query-sort-desc:: true
-	- {{query (and (between -1d,0d) [[页面]] [[标签]] )}}
-	  query-sort-by:: block
-	  query-table:: true
-	  query-sort-desc:: true
 - 基础关键词
 - and
 - or
 - not
 - between
+-
