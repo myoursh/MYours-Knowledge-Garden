@@ -20,7 +20,5 @@
 	- 点击左侧 ⭐`favourite`下方对应的页面，访问该页面分类下内容
 	- 点击 右侧边栏 `Contents`，该页面统计一些精选文章和分类
 - # 准备浇灌的领域 💦
-- ## [[数据结构]]
-## [[活着为了讲述]]
-- ## [[云雀叫了一整天]]
+- ## [[Contents]]
 	- <iframe src="https://httishere.gitee.io/notion/new/today-shici.html?mode=w" width="20"height="800"></iframe>
