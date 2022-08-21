@@ -14,4 +14,4 @@
 - # 推荐阅读
 	- 发布教程 & 页面优化(比如加评论区)  https://logseq.abosen.top/#/page/README
 	- CSS 修改,logseq 群主 https://wsin.vercel.app/#/page/%E9%98%85%E8%AF%BB%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97
-	-
+	- 网页部署 https://imap.vercel.app/#/page/logseq%E9%83%A8%E7%BD%B2%E7%BD%91%E9%A1%B5
