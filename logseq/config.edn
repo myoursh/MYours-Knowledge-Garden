@@ -178,6 +178,7 @@
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  :srs/learning-fraction 1
+ :feature/enable-encryption? true
 
  ;; the initial interval after the first successful review of a card (default 4)
  ;; :srs/initial-interval 4
