@@ -12,6 +12,8 @@
 	- 🎞️点击右上角 `···`，点击 `presentation`，即可在右侧边栏打开该页面的幻灯片样式。
 	- 💡打开幻灯片后，按下 `f` 可以进入全屏模式。
 	- 打开左侧栏图谱 → `Graph View`，直观查看页面间链接。
+	  collapsed:: true
+		- 👾 bug：请忽视  `filters` `{` `background-color` `query-sort-by` `heading` `false`等结点。
 - > 如果希望更深度的了解「数字花园」的探索方式，请点击🌷 [[MYoursGarden]]
 - ## As a Blog
   background-color:: #787f97
@@ -24,4 +26,3 @@
 - ## [[Contents]]
 - > 生活，诗歌。
 	- <iframe src="https://httishere.gitee.io/notion/new/today-shici.html?mode=w" width="20"height="800"></iframe>
--
