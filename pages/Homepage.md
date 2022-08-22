@@ -14,7 +14,7 @@
 	- 打开左侧栏图谱 → `Graph View`，直观查看页面间链接。
 	  collapsed:: true
 		- 👾 bug：请忽视  `filters` `{` `background-color` `query-sort-by` `heading` `false`等结点。
-- > 如果希望更深度的了解「数字花园」的探索方式，请点击🌷 [[MYoursGarden]]
+- > 如果希望继续了解「数字花园」的探索方式，请点击🌷 [[MYoursGarden]]
 - ## As a Blog
   background-color:: #787f97
 - This website also provides category like most of blogs  📑
