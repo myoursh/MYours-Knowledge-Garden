@@ -1,7 +1,9 @@
 - logseq 支持所有 emoji
 - 类似于 notion ，很醒目的指示内容
-- windows 下可以使用 `win`+`.`快速添加 emoji
--
+- > 使用emoji
+	- windows 下可以使用 `win`+`.`快速添加 emoji
+	- 网站（可查询） https://emojixd.com/list
 - > 好看的emoji
 	- # 🐚🐱‍🏍🐱‍💻🐱‍🐉🐱‍👓🐱‍🚀🐱‍👤🐶👩‍🚀👨‍🚀👩‍💻👨‍🔬👨‍🦳✨🎊🎠🧶🕹🎮🔮🧩🎼🎵🎶🔫💡
 	- # 🗃卡片盒
+-
