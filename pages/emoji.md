@@ -1,3 +1,6 @@
 - logseq 支持所有 emoji
 - 类似于 notion ，很醒目的指示内容
 - windows 下可以使用 `win`+`.`快速添加 emoji
+-
+- # 好看的emoji
+	-
