@@ -19,9 +19,11 @@
 	- 总结：
 		- [logseq入门到精通-imap（up及时春雨）](https://imap.vercel.app/#/page/logseq%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A)
 - # 🐛捉虫
-	- 世界上百分之九十的问题都可以靠重启解决。
+	- > 世界上百分之九十的问题都可以靠重启解决。
 		- 注意==备份==！
 		- “重启”方法：
 			- setting-clear cache（在高级设置里）
 			- 页面的配置在 logseq/pages-metadata.edn 中。可以删除该页，再 re-index （重建索引）
-				- [Property names in graph](https://github.com/logseq/logseq/issues/6124)
+	- > bug
+		- 发布时，页面属性被新建为一个页面。
+			- [Property names in graph](https://github.com/logseq/logseq/issues/6124)
