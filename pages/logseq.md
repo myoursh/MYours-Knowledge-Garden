@@ -25,5 +25,12 @@
 			- setting-clear cache（在高级设置里）
 			- 页面的配置在 logseq/pages-metadata.edn 中。可以删除该页，再 re-index （重建索引）
 	- > bug
-		- 发布时，页面属性被新建为一个页面。
-			- [Property names in graph](https://github.com/logseq/logseq/issues/6124)
+		- 👾 bug：请忽视  `filters` `{` `background-color` `query-sort-by` `heading` `false` 等结点。这些结点本来应该是页面属性，但被错误解析为页面。
+		  id:: 63048655-0377-4a1e-b10b-036b109bf1b2
+		  以下是关于此 bug 推测：
+			- 本地端并无此 bug ，发布后才出现此 bug ；本发布页采用了 pengx17 的发布方案，pengx17 本人的发布页也遇到了和我一样的状况。→问题出在发布的时候。
+			- logseq 的 [github issue](https://github.com/logseq/logseq/issues) 中 [issue #5963](https://github.com/logseq/logseq/issues/5963) 提到了这个问题。也就是说，在 logseq 的发布版本中，这个问题是存在过的。→版本问题导致了这个 bug 。
+			- 由以上两点，以及个人目前的一些推测，做出猜想：向源码仓库 commit 时，[[源码仓库 action]] 会调用 pengx17 的发布代码。该代码采用了 docker 技术，docker 里的 logseq 中的版本存在此 bug。
+			- related issue
+				- [Property names in graph|issue #6124](https://github.com/logseq/logseq/issues/6124)
+-
