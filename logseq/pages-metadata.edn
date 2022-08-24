@@ -1,9 +1,12 @@
-[{:block/name "2022-08-19",
+[{:block/name " obsidian",
+  :block/created-at 1661324693589,
+  :block/updated-at 1661324693589}
+ {:block/name "2022-08-19",
   :block/created-at 1661130393033,
   :block/updated-at 1661130393033}
  {:block/name "2022-08-20",
   :block/created-at 1661130392932,
-  :block/updated-at 1661130392932}
+  :block/updated-at 1661325511923}
  {:block/name "2022-08-21",
   :block/created-at 1661130392849,
   :block/updated-at 1661162047721}
@@ -15,7 +18,7 @@
   :block/updated-at 1661259812780}
  {:block/name "2022-08-24",
   :block/created-at 1661305074222,
-  :block/updated-at 1661305830287}
+  :block/updated-at 1661324742850}
  {:block/name "62ff90e0-7d21-4498-9021-f58f820be120",
   :block/created-at 1661130383443,
   :block/updated-at 1661130383443}
@@ -34,6 +37,9 @@
  {:block/name "b",
   :block/created-at 1661130392267,
   :block/updated-at 1661130392267}
+ {:block/name "bookxnote",
+  :block/created-at 1661324058820,
+  :block/updated-at 1661324058820}
  {:block/name "c",
   :block/created-at 1661130392267,
   :block/updated-at 1661130392267}
@@ -108,7 +114,7 @@
   :block/updated-at 1661130382987}
  {:block/name "logseq/思想/双链",
   :block/created-at 1661130382977,
-  :block/updated-at 1661130382977}
+  :block/updated-at 1661324985830}
  {:block/name "logseq/思想/大纲",
   :block/created-at 1661130382976,
   :block/updated-at 1661130382976}
@@ -216,7 +222,7 @@
   :block/updated-at 1661130382994}
  {:block/name "博客/访客/引号",
   :block/created-at 1661130382992,
-  :block/updated-at 1661130382992}
+  :block/updated-at 1661325459281}
  {:block/name "卡片",
   :block/created-at 1661130384533,
   :block/updated-at 1661130384533}
@@ -226,9 +232,6 @@
  {:block/name "卢曼教授",
   :block/created-at 1661130384557,
   :block/updated-at 1661130384557}
- {:block/name "双链",
-  :block/created-at 1661130383564,
-  :block/updated-at 1661130383564}
  {:block/name "反链",
   :block/created-at 1661130382982,
   :block/updated-at 1661130382982}
@@ -241,9 +244,15 @@
  {:block/name "块",
   :block/created-at 1661130383690,
   :block/updated-at 1661130383690}
+ {:block/name "块换行",
+  :block/created-at 1661325459279,
+  :block/updated-at 1661325459279}
  {:block/name "外刊精读",
   :block/created-at 1661130383331,
   :block/updated-at 1661172193038}
+ {:block/name "学习",
+  :block/created-at 1661323967518,
+  :block/updated-at 1661323967518}
  {:block/name "层次结构存储器",
   :block/created-at 1661237573735,
   :block/updated-at 1661238204927}
