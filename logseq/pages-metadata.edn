@@ -12,7 +12,7 @@
   :block/updated-at 1661567180264}
  {:block/name "2022-08-28",
   :block/created-at 1661650385059,
-  :block/updated-at 1661650684769}
+  :block/updated-at 1661678412553}
  {:block/name "62ff90e0-7d21-4498-9021-f58f820be120",
   :block/created-at 1661130383443,
   :block/updated-at 1661130383443}
@@ -91,6 +91,9 @@
  {:block/name "homepage",
   :block/created-at 1661130383411,
   :block/updated-at 1661241015403}
+ {:block/name "homepage/aboutme",
+  :block/created-at 1661679041863,
+  :block/updated-at 1661681209634}
  {:block/name "homepage/优化",
   :block/created-at 1661130383407,
   :block/updated-at 1661161782658}
@@ -112,9 +115,6 @@
  {:block/name "logseq",
   :block/created-at 1661130382995,
   :block/updated-at 1661241131273}
- {:block/name "logseq.com",
-  :block/created-at 1661130383366,
-  :block/updated-at 1661130383366}
  {:block/name "logseq/思想",
   :block/created-at 1661130382989,
   :block/updated-at 1661130382989}
@@ -174,7 +174,7 @@
   :block/updated-at 1661130384056}
  {:block/name "readme",
   :block/created-at 1661130383367,
-  :block/updated-at 1661130383367}
+  :block/updated-at 1661679009915}
  {:block/name "roam research",
   :block/created-at 1661130382990,
   :block/updated-at 1661130382990}
