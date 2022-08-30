@@ -1,0 +1,7 @@
+- xmind 本身做导图能力优秀
+- 可以导出 textbundle ，从而存取到 obsidian
+- 比起 logseq 等大纲笔记，其图形化的大纲形式可以更显性的突出层级关系
+- 动态增长的
+	- 一张图就是一个大主题
+- [如何用xmind建立知识体系](https://zhuanlan.zhihu.com/p/481882933)
+-
