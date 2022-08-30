@@ -6,7 +6,7 @@
   :block/updated-at 1661429767401}
  {:block/name "2022-08-26",
   :block/created-at 1661505167620,
-  :block/updated-at 1661505205296}
+  :block/updated-at 1661830025301}
  {:block/name "2022-08-27",
   :block/created-at 1661566887775,
   :block/updated-at 1661567180264}
@@ -18,10 +18,7 @@
   :block/updated-at 1661761559053}
  {:block/name "2022-08-30",
   :block/created-at 1661829957029,
-  :block/updated-at 1661829957029}
- {:block/name "408",
-  :block/created-at 1661702750796,
-  :block/updated-at 1661702750796}
+  :block/updated-at 1661834643146}
  {:block/name "62ff90e0-7d21-4498-9021-f58f820be120",
   :block/created-at 1661130383443,
   :block/updated-at 1661130383443}
@@ -178,6 +175,9 @@
  {:block/name "now",
   :block/created-at 1661130392267,
   :block/updated-at 1661130392267}
+ {:block/name "obsidian",
+  :block/created-at 1661834200408,
+  :block/updated-at 1661834200408}
  {:block/name "qin",
   :block/created-at 1661130384054,
   :block/updated-at 1661130384054}
@@ -220,6 +220,9 @@
  {:block/name "wiki",
   :block/created-at 1661130384917,
   :block/updated-at 1661130384917}
+ {:block/name "xmind",
+  :block/created-at 1661834174225,
+  :block/updated-at 1661834660844}
  {:block/name "「」",
   :block/created-at 1661130382991,
   :block/updated-at 1661130382991}
@@ -277,6 +280,15 @@
  {:block/name "学习",
   :block/created-at 1661323967518,
   :block/updated-at 1661323967518}
+ {:block/name "学习/考研",
+  :block/created-at 1661830169137,
+  :block/updated-at 1661830169137}
+ {:block/name "学习/考研/408",
+  :block/created-at 1661830172269,
+  :block/updated-at 1661830172269}
+ {:block/name "学习/考研/资料",
+  :block/created-at 1661830227732,
+  :block/updated-at 1661830227732}
  {:block/name "层次结构存储器",
   :block/created-at 1661237573735,
   :block/updated-at 1661238204927}
@@ -352,9 +364,6 @@
  {:block/name "组成原理/fleeting",
   :block/created-at 1661159009276,
   :block/updated-at 1661161375230}
- {:block/name "考研规划",
-  :block/created-at 1661702718057,
-  :block/updated-at 1661705200697}
  {:block/name "英文写作",
   :block/created-at 1661159429765,
   :block/updated-at 1661159431431}
