@@ -36,7 +36,7 @@
   :block/updated-at 1661761559053}
  {:block/name "2022-08-30",
   :block/created-at 1661829957029,
-  :block/updated-at 1661835531031}
+  :block/updated-at 1661850416708}
  {:block/name "62ff90e0-7d21-4498-9021-f58f820be120",
   :block/created-at 1661130383443,
   :block/updated-at 1661130383443}
@@ -280,6 +280,9 @@
  {:block/name "学习",
   :block/created-at 1661323967518,
   :block/updated-at 1661835655853}
+ {:block/name "学习/工具",
+  :block/created-at 1661850207367,
+  :block/updated-at 1661850207367}
  {:block/name "学习/考研",
   :block/created-at 1661830169137,
   :block/updated-at 1661830169137}
