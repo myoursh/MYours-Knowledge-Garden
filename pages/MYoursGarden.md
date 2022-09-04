@@ -65,6 +65,7 @@
 - #logseq/思想
 	- [[卡片盒笔记法]]
 	- [双向链接时代的快速无压记录](https://www.yuque.com/deerain/gannbs/ffqk2e)
+	  id:: 630d995e-f0d5-4869-ba83-f3acda8a54e1
 		- ❤[为命名压力兜底的 「合并」](https://www.yuque.com/deerain/gannbs/ffqk2e#comment-24793351)
 		  id:: 62ff90e0-7d21-4498-9021-f58f820be120
 - [[logseq自动发布注意事项]]
