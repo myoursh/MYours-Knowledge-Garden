@@ -23,6 +23,6 @@
 	- 点击 右侧边栏 `Contents`，该页面提供更有层次的分类
 	- 暴論： [[logseq/思想/标签与页面]]是一样的！
 - # 准备浇灌的领域 💦
-	- # [[📩订阅 newsletter]]
-		- {{embed ((6315a08b-6d0d-4a7e-900f-cc6be4d2061e))}}
-	- # [[Contents]]
+- ## [[Contents]]
+- ## [[📩订阅 newsletter]] 🔽
+- <iframe src="https://conquer408.zhubai.love/" width="10"height="800"></iframe>
