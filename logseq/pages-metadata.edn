@@ -54,7 +54,7 @@
   :block/updated-at 1662539575337}
  {:block/name "2022-09-08",
   :block/created-at 1662601158696,
-  :block/updated-at 1662601245996}
+  :block/updated-at 1662622518376}
  {:block/name "62ff90e0-7d21-4498-9021-f58f820be120",
   :block/created-at 1661130383443,
   :block/updated-at 1661130383443}
@@ -250,6 +250,9 @@
  {:block/name "todo",
   :block/created-at 1661130392267,
   :block/updated-at 1661130392267}
+ {:block/name "todolist",
+  :block/created-at 1662622277481,
+  :block/updated-at 1662622384452}
  {:block/name "wait",
   :block/created-at 1661130392267,
   :block/updated-at 1661130392267}
