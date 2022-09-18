@@ -173,7 +173,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["Contents" "myoursgarden" "外刊精读" "云雀叫了一整天" "友链"]
+ :favorites ["Contents" "myoursgarden" "外刊精读" "云雀叫了一整天" "友链" "2023考研"]
  :journal/page-title-format "yyyy-MM-dd"
  :graph/settings {:journal? false, :builtin-pages? true}
 
